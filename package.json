@@ -1,11 +1,19 @@
 {
   "name": "landonconover",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Landon Conover <landon.conover@gmail.com> (https://github.com/landonconover)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landonconover/landonconover-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/landonconover/landonconover-npm/issues"
+  },
+  "homepage": "https://github.com/landonconover/landonconover-npm#readme",
+  "description": "Personal npm Package"
 }
