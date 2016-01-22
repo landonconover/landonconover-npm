@@ -15,5 +15,8 @@
     "url": "https://github.com/landonconover/landonconover-npm/issues"
   },
   "homepage": "https://github.com/landonconover/landonconover-npm#readme",
-  "description": "Personal npm Package"
+  "description": "Personal npm Package",
+  "dependencies": {
+    "boxen": "^0.2.0"
+  }
 }
